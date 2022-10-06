@@ -1,0 +1,39 @@
+Theory:
+	- blockchains
+		https://youtu.be/0UvVOMZqpEA - basics and cryptography
+	- smart contracts
+	- dApps
+		https://youtu.be/JPkgJwJHYSc - smart contracts and dApps
+	- wallets and standards
+		https://youtu.be/aGd4bRQkLqU - wallets
+	- protocols:
+		- ERC20,
+		- ERC721
+		https://youtu.be/-cknquI5LGA - protocols for dummies
+		https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+		https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
+	- applied encryption principles (
+		asymmetric vs. symmetric encryption, -- https://www.geeksforgeeks.org/difference-between-symmetric-and-asymmetric-key-encryption/
+		digital signatures, -- https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq
+		hashing, -- https://www.2brightsparks.com/resources/articles/introduction-to-hashing-and-its-uses.html
+		message authentication, -- http://www.crypto-it.net/eng/theory/mac.html
+		generating,
+		and safely transferring key pairs) -- https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/ch04.html
+	- crypto-economic protocol design including 
+		governance and 
+		incentive structures
+Dev Stack:
+	- NodeJs -- https://www.udemy.com/course/microservices-with-node-js-and-react/
+	- MongoDB -- https://www.udemy.com/course/microservices-with-node-js-and-react/
+	- Microservices -- https://www.udemy.com/course/microservices-with-node-js-and-react/
+	- MySQL -- https://www.udemy.com/course/sql-and-postgresql/
+	- AWS
+	- Kafka -- https://kafka.apache.org/documentation/#gettingStarted
+	- TDD -- https://www.udemy.com/course/tdd-csharp/
+	- CI/CD
+Web3 Stack:
+	- Web3 -- https://ethereum.org/en/web3/
+	- Ethers -- https://docs.ethers.io/v5/
+	- Hardhat -- https://hardhat.org/
+	- OpenZeellin Tooling -- https://www.openzeppelin.com/
+	- Smart Contract Debugging -- https://www.youtube.com/watch?v=3B0eB1pajlM&ab_channel=Ethereum-Blockchain-Developer%7CBlockOnAir
